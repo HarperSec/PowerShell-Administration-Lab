@@ -12,7 +12,7 @@ Before using PowerShell to manage Active Directory, the PowerShell environment m
 | Domain              | `harper.local`                   |
 | Directory Service   | Active Directory Domain Services |
 | Administration Tool | Windows PowerShell               |
-| PowerShell Module   | Active Directory                 |
+| PowerShell Module   | ActiveDirectory                 |
 
 ## Opening PowerShell
 
