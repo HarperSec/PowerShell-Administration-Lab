@@ -78,4 +78,11 @@ The PowerShell environment is considered ready when:
 * Active Directory cmdlets are available.
 
 ## Screenshots
-
+### PowerShell Version
+[![PowerShell Version](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-01-PowerShell-Version.png)
+### ActiveDirectory Module
+[![ActiveDirectory Module](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-02-ActiveDirectory-Module.png)
+### ActiveDirectory Module Loaded
+[![ActiveDirectory Module Loaded](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-03-ActiveDirectory-Module-Loaded.png)
+### ActiveDirectory cmdlets
+[![ActiveDirectory cmdlets](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-04-ActiveDirectory-Cmdlets.png)
