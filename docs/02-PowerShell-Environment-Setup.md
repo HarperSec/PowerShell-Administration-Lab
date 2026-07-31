@@ -35,9 +35,11 @@ The following command was used to view the installed PowerShell version:
 $PSVersionTable
 ```
 
-This command displays information about the PowerShell environment, including the PowerShell version and operating system details.
+This command displays information about the PowerShell environment, including the PowerShell version and operating system details.  
 
-## Checking the Active Directory Module
+![PowerShell Version](../screenshots/02-01-PowerShell-Version.png)  
+
+## Checking the Active Directory Module  
 
 The following command was used to verify that the Active Directory PowerShell module was available:
 
@@ -45,7 +47,9 @@ The following command was used to verify that the Active Directory PowerShell mo
 Get-Module -ListAvailable ActiveDirectory
 ```
 
-The Active Directory module contains PowerShell cmdlets used to manage Active Directory objects, including users, groups, computers, and organizational units.
+The Active Directory module contains PowerShell cmdlets used to manage Active Directory objects, including users, groups, computers, and organizational units.  
+
+![ActiveDirectory Module](../screenshots/02-02-ActiveDirectory-Module.png)
 
 ## Importing the Active Directory Module
 
@@ -55,7 +59,9 @@ The following command was used to load the Active Directory module into the curr
 Import-Module ActiveDirectory
 ```
 
-After importing the module, Active Directory cmdlets can be used during the current PowerShell session.
+After importing the module, Active Directory cmdlets can be used during the current PowerShell session. 
+
+![ActiveDirectory Module Loaded](../screenshots/02-03-ActiveDirectory-Module-Loaded.png)  
 
 ## Verifying Active Directory Cmdlets
 
@@ -67,6 +73,8 @@ Get-Command -Module ActiveDirectory
 
 This command lists the available PowerShell commands provided by the Active Directory module.
 
+![ActiveDirectory Cmdlets](../screenshots/02-04-ActiveDirectory-Cmdlets.png)
+
 ## Expected Results
 
 The PowerShell environment is considered ready when:
@@ -77,12 +85,3 @@ The PowerShell environment is considered ready when:
 * The Active Directory module imports without errors.
 * Active Directory cmdlets are available.
 
-## Screenshots
-### PowerShell Version
-[![PowerShell Version](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-01-PowerShell-Version.png)
-### ActiveDirectory Module
-[![ActiveDirectory Module](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-02-ActiveDirectory-Module.png)
-### ActiveDirectory Module Loaded
-[![ActiveDirectory Module Loaded](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-03-ActiveDirectory-Module-Loaded.png)
-### ActiveDirectory cmdlets
-[![ActiveDirectory cmdlets](path/to/image.png)](https://github.com/HarperSec/PowerShell-Administration-Lab/blob/main/screenshots/02-04-ActiveDirectory-Cmdlets.png)
