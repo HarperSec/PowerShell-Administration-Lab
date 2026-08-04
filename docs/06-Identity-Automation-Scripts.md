@@ -249,7 +249,7 @@ Example:
 ```
 Name      SamAccountName   Enabled   Department
 ----      --------------   -------   ----------
-T Bore    t.bore           True      IT
+Tatum Bore    t.bore           True      IT
 ```
 
 ---
