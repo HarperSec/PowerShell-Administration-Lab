@@ -43,8 +43,6 @@ The goal of this project is to develop practical PowerShell skills that can be a
 4. [Active Directory PowerShell](docs/04-Active-Directory-PowerShell.md)
 5. [User and Group Management](docs/05-User-and-Group-Management.md)
 6. [Identity Automation Scripts](docs/06-Identity-Automation-Scripts.md)
-7. [Reporting and Auditing](docs/07-Reporting-and-Auditing.md)
-8. [Troubleshooting](docs/08-Troubleshooting.md)
 
 ## Project Objectives
 
@@ -69,8 +67,7 @@ PowerShell-Administration-Lab/
 │   ├── 04-Active-Directory-PowerShell.md
 │   ├── 05-User-and-Group-Management.md
 │   ├── 06-Identity-Automation-Scripts.md
-│   ├── 07-Reporting-and-Auditing.md
-│   └── 08-Troubleshooting.md
+│   
 │
 └── screenshots/
 ```
