@@ -86,8 +86,8 @@ Example CSV format:
 
 ```csv
 FirstName,LastName,Username,Department
-Taylor,Bore,t.bore,IT
-Logan,Spellmen,l.spellmen,HR
+Tatum,Bore,t.bore,IT
+Lillith,Spellmen,l.spellmen,HR
 ```
 
 ---
